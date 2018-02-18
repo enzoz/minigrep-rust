@@ -2,7 +2,6 @@ A simple replica of `grep`.
 
 ```
 cargo run <query> <filename>
-
 ```
 
 #### Running it
